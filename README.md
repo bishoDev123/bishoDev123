@@ -1,6 +1,7 @@
 ## Hi there 👋, my name is Beshoy Atef
 
-[![linkedin profile link](https://www.linkedin.com/in/beshoy-atef-php/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshoy-atef-php/)
+
 ## 🙋‍♂️ About me
 
 I'm an Egyptian 🇪🇬 backend web developer. I am passionate about laravel and go and other technologies that make the developer life much easier 🍸
