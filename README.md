@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋, my name is Beshoy Atef
 
-<!--
-**bishoDev123/bishoDev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin profile link](https://www.linkedin.com/in/beshoy-atef-php/)]
+## 🙋‍♂️ About me
 
-Here are some ideas to get you started:
+I'm an Egyptian 🇪🇬 backend web developer. I am passionate about laravel and go and other technologies that make the developer life much easier 🍸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I'm currently working on
+
+
+
+## 🌱 I’m currently learning
+
+[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+
+## 🔨 I've contributed to
+
+
+## ✍️ I've written about
+
+
+## 💸 How to support me
+
+
+
+## 📫 How to reach me
+
