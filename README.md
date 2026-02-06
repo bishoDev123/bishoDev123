@@ -13,6 +13,13 @@ I'm an Egyptian 🇪🇬 backend web developer. I am passionate about laravel an
 
 ## 🌱 I’m currently learning
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="80" alt="Laravel" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80" alt="Go" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w80/de.png" alt="German language" />
+</p>
 
 ## 🔨 I've contributed to
 
