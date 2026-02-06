@@ -11,8 +11,6 @@ I'm an Egyptian 🇪🇬 backend web developer. I am passionate about laravel an
 
 ## 🌱 I’m currently learning
 
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 
 ## 🔨 I've contributed to
 
